@@ -1,4 +1,11 @@
-<p align="center">
+$ curl https://sh.rustup.rs -sSf | sh
+$ source $HOME/.cargo/env
+$ rustup component add rustfmt
+
+
+
+<
+p align="center">
   <a href="https://solana.com">
     <img alt="Solana" src="https://i.imgur.com/uBVzyX3.png" width="250" />
   </a>
